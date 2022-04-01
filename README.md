@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ViadoJoshua
 - 👀 I’m interested in learning... 
-about the crypto-space and looking for ways to innovate. BlockChain technology is substantial and will change the future!
+Java, JavaScript, C/C++/, Golang, Rust, Scala, and Python.
 - 🌱 I’m currently learning ... 
-Systems Information
-- 💞️ I’m looking to collaborate on ... Any sort of project that is willing to share the experience to a new crypto innovator.
+to become a Full Stack Developer, once finished the goal is to aim how to become a solidity developer and create blockchains and memorize data algorithms.
+- 💞️ I’m looking to collaborate on ... any individuals that are willing to innovate and give guidance on langauges such as Python, CSS+, Java, Javascript, CS, Solidity.
 - 📫 How to reach me ...
    viadojoshua@gmail.com 
 
